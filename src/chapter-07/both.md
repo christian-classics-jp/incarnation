@@ -2,7 +2,7 @@
 CHAPTER 7
 REFUTATION OF THE GENTILES
 
-§ 41
+// § 41
 ## 第四十一節
 
 WE come now to the unbelief of the Gentiles ; and this is indeed a matter for complete astonishment, for They laugh at that which is no fit subject for mockery, yet fail to see the shame and ridiculousness of their own idols. But the arguments on our side do not lack weight, so we will confute them too on reasonable grounds, chiefly from what we ourselves also see.
@@ -19,7 +19,7 @@ But if the Word of God is in the universe, which is a body, and has entered into
 But if it is right and fitting for Him to enter into the universe and to reveal Himself through it, then, because humanity is part of the universe along with the rest, it is no less fitting for Him to appear in a human body, and to enlighten and to work through that. And surely if it were wrong for a part of the universe to have been used to reveal His Divinity to men, it would be much more wrong that He should be so revealed by the whole !
 だがもし、この方が宇宙に入り、その中にご自分を啓示していることが理にかなっていて正しいなら、人間は他の被造物と同じように宇宙の一部分であるから、この方が人間の肉体をとって現れ、告げ知らせ、地上で働くこともまた理にかなっている。またこの方が神の神性を人に啓示するために宇宙の一部分を使ったことが誤りだというなら、確実に言えることだが、この方が宇宙全体に神性を啓示したと考えることはそれ以上に誤りである。
 
-§ 42
+// § 42
 ## 第四十二節
 
 Take a parallel case. A man's personality actuates and quickens his whole body. If anyone said it was unsuitable for the man's power to be in the toe, he would bethought silly, because, while granting that a man penetrates and actuates the whole of his body, he denied his presence in the part. Similarly, no one who admits the presence of the Word of God in the universe as a whole should think it unsuitable for a single human body to be by Him actuated and enlightened.
@@ -36,7 +36,7 @@ By His own power He enters completely into each and all, and orders them through
 This being so, and since, moreover, He has willed to reveal Himself through men, who are part of the whole, there can be nothing ridiculous in His using a human body to manifest the truth and knowledge of the Father. Does not the mind of man pervade his entire being, and yet find expression through one part only, namely the tongue? Does anybody say on that account that Mind has degraded itself ? Of course not. Very well, then, no more is it degrading for the Word, Who pervades all things, to have appeared in a human body. For, as I said before, if it were unfitting for Him thus to indwell the part, it would be equally so for Him to exist within the whole.
 このような論拠と、またさらに彼がご自分を啓示しようとしたのは全体の一部分である人間を通じてであったという点を考えると、この方が人間の肉体を使って御父の真理と知識を現したという主張は、まったく荒唐無稽ではない。人間の心は、肉体のすみずみにまで充満して存在していないだろうか。心は肉体の一部分、たとえば舌にだけ宿っているのだろうか。心が肉体全体に宿っていると説明すると、心そのものの品位を落とすことになる、と誰が言うだろうか。まさしく同じことだ。みことばなる方についても、この方が万物に充満しているゆえに一個の人間の肉体にも現れうると言ったからとて、この方の品位を落とすことにはならない。なぜなら、先に述べたように、もし彼が部分に宿ることが不相応であるなら、全体の中に存在することも等しく不相応だからである。
 
-§ 43
+// § 43
 ## 第四十三節
 
 Some may then ask, why did He not manifest Himself by means of other and nobler parts of creation, and use some nobler instrument, such as sun or moon or stars or fire or air, instead of mere man? The answer is this. The Lord did not come to make a display. He came to heal and to teach suffering men. For one who wanted to make a display the thing would have been just to appear and dazzle the beholders. But for Him Who came to heal and to teach the . way was not merely to dwell here, but to put Himself at the disposal of those who needed Him, and to be manifested according as they could bear it, not vitiating the value of the Divine appearing by exceeding their capacity to receive it.
@@ -51,7 +51,7 @@ For, being men, they would naturally learn to know His Father more quickly and d
 His being in creation does not mean that He shares its nature; on the contrary, all created things partake of His power. Similarly, though He used the body as His instrument, He shared nothing of its defect, (Literally, "He shared nothing of the things of the body.") but rather sanctified it by His indwelling. Does not even Plato, of whom the Greeks think so much, say that the Author of the Universe, seeing it stormtossed and in danger of sinking into the state of dissolution, takes his seat at the helm of the Life-force of the universe, and comes to the rescue and puts everything right? What, then, is there incredible in our saying that, mankind having gone astray, the Word descended upon it and was manifest as man, so that by His ,intrinsic goodness and His steersmanship He might save it from the storm?
 キリストが被造物の中におられることは、被造物と性質を共有することを意味しているのではない。事実は逆である。造られた物がキリストの力を受けている。似たことだが、この方が肉体を媒介として用いたからといって、肉体の欠点を共有することにはならない（文字通りには、「彼は肉体の物について何も共有していない」）。むしろ肉体はこの方の内住によってきよめられているのである。ギリシャ人が偉人だと考えているプラトンでさえ、こう言ったではないか。宇宙は嵐に見舞われて沈没と船体全壊の危機に瀕しているが、宇宙の作者はそのことを知っているので、宇宙の生命力の操舵席に座り、救助に来てあらゆるものを正す、と。それなら、私たちの主張のどこが信頼ならないというのか。人類が道に迷ったために、みことばなる方が降りてきて人として現れ、その本質的善と航海術によって人類を嵐から救うことができる、と私たちは言っているに過ぎない。
 
-§ 44
+// § 44
 ## 第四十四節
 
 It may be, however, that, though shamed into agreeing that this objection is void, the Greeks will want to raise another. They will say that, if God wanted to instruct and save mankind, He might have done so, not by His Word's assumption of a body, but, even as He at first created them, by the mere signification of His will. The reasonable reply to that is that the circumstances in the two cases are quite different. In the beginning, nothing as yet existed at all; all that was needed, therefore, in order to bring all things into being, was that His will to do so should be signified. But once man was in existence, and things that were, not things that were not, demanded to be healed, it followed as a matter of course that the Healer and Saviour should align Himself with those things that existed already, in order to heal the existing evil.
@@ -67,7 +67,7 @@ And, indeed, how could the Lord have been proved to be the Life at all, had He n
 Then the stubble no longer fears the fire, because it has put on that which fire cannot touch, and therefore it is safe. It is just the same with regard to the body and death. Had death been kept from it by a mere command, it would still have remained mortal and corruptible, according to its nature. To prevent this, it put on the incorporeal Word of God, and therefore fears neither death nor corruption any more, for it is clad with Life as with a garment and in it corruption is clean done away. 
 すると、刈株はもう火に怯えなくなる。火が触れることのできないものを着ているため、安全だからである。肉体と死に関してもまさに同じである。たとえ死がある命令によって肉体から遠ざけられたとしても、肉体はその自然の性質によってあいかわらず死すべきものであり続け、朽ちるものであり続ける。だが、肉体が無形の神のことばを着ると、もう死も腐敗も恐れなくなる。肉体が服を着るようにしていのちを着、腐敗が一掃されるからである。
 
-§ 45
+// § 45
 ## 第四十五節
 
 The Word of God thus; acted consistently in assuming a body and using a human instrument to vitalise the body. He was consistent in working through man to reveal Himself everywhere, as well as through the other parts of His creation, so that nothing was left void of His Divinity and knowledge. For I take up now the point I made before, namely that the Saviour did this in order that He might fill all things everywhere with the knowledge of Himself, just as they are already filled with His presence, even as the Divine Scripture says, "The whole universe was filled with the knowledge of the Lord." (Isaiah 11. 9)
