@@ -1,4 +1,4 @@
-# 第七章　異邦人の拒絶
+# 第七章　異邦人の拒絶（前編）
 CHAPTER 7
 REFUTATION OF THE GENTILES
 
