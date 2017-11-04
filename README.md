@@ -11,6 +11,6 @@ C.S.M.V. (1944) による [英語訳](http://www.worldinvisible.com/library/atha
 * [x] chapter 4
 * [x] chapter 5
 * [x] chapter 6
-* [ ] chapter 7
-* [ ] chapter 8
+* [x] chapter 7
+* [x] chapter 8
 * [ ] chapter 9
